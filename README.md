@@ -40,7 +40,7 @@ GIF created with ScreenToGif ![logo d2151712](https://github.com/user-attachment
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+For me, implementing the filtering functionality for funded and unfunded games was tricky. It took some time for me to get the logic right so that the correct games would be displayed without breaking the rest of the app's functionality.
 
 ## License
 
