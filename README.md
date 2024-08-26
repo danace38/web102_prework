@@ -27,8 +27,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Web102PreWork](https://github.com/user-attachments/assets/8b6bb1fe-6c8d-481b-baf2-39187871ea60)
+<img src='![Web102PreWork](https://github.com/user-attachments/assets/8b6bb1fe-6c8d-481b-baf2-39187871ea60)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
