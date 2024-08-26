@@ -18,7 +18,9 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
+
 Include **Search Bar** on top of the website to allow users to search for games
+
 Include **contribute** function to allow users to fund games.
 
 ## Video Walkthrough
