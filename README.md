@@ -31,8 +31,9 @@ Here's a walkthrough of implemented features:
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGif  
+GIF created with ScreenToGif ![logo d2151712](https://github.com/user-attachments/assets/2ec7b5ab-2041-4f4a-a79e-8f48ba1753e9)
 <!-- Recommended tools:
+
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
