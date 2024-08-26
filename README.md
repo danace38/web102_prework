@@ -27,8 +27,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![Web102PreWork](https://github.com/user-attachments/assets/8b6bb1fe-6c8d-481b-baf2-39187871ea60)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Web102PreWork](https://github.com/user-attachments/assets/c7b7ec7f-63fb-4207-bf68-0d91dace7ef4)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
