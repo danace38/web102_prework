@@ -151,7 +151,7 @@ const numberOfUnfundedGames = GAMES_JSON.filter(game => game.pledged < game.goal
 
 // create a string that explains the number of unfunded games using the ternary operator
 const unfundedDescription = numberOfUnfundedGames > 0 
-    ? `We currently have ${numberOfUnfundedGames} game(s) that are still seeking funding.`
+    ? `Currently, ${numberOfUnfundedGames} games are still seeking funding.`
     : "All our games are fully funded at the moment."
 
 // create a new DOM element containing the template string and append it to the description container
@@ -172,7 +172,18 @@ const sortedGames =  GAMES_JSON.sort( (item1, item2) => {
 });
 
 // use destructuring and the spread operator to grab the first and second games
+const [firstGame, secondGame] = sortedGames
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
+const firstGameElement = document.createElement('div');
+firstGameElement.innerHTML = `
+    <img src="${firstGame.img}" alt="${firstGame.name}" class="game-img"/>
+    <h4>${firstGame.name}</h4>`
+    firstGameContainer.appendChild(firstGameElement)
 
 // do the same for the runner up item
+const secondGameElement = document.createElement('div');
+secondGameElement.innerHTML = `
+    <img src="${secondGame.img}" alt="${secondGame.name}" class="game-img"/>
+    <h4>${secondGame.name}</h4>`
+    secondGameContainer.appendChild(secondGameElement)
